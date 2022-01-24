@@ -1,0 +1,29 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg using node JS, Jest and OOP",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobGit3/jest-another-rpg.git"
+  },
+  "keywords": [
+    "rpg"
+  ],
+  "author": "Jacob Liberty",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JacobGit3/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/JacobGit3/jest-another-rpg#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "node": "^17.4.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
