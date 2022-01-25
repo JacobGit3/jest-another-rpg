@@ -21,6 +21,7 @@
   "homepage": "https://github.com/JacobGit3/jest-another-rpg#readme",
   "dependencies": {
     "inquire": "^0.4.8",
+    "inquirer": "^8.2.0",
     "node": "^17.4.0"
   },
   "devDependencies": {
